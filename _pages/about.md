@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /iceteam.com
 title: "欢迎来到iceteamqwq"
 author_profile: true
 redirect_from: 
