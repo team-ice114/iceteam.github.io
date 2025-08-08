@@ -1,6 +1,6 @@
 ---
-permalink: /iceteam.github.io
-title: "欢迎来到iceteamqwq"
+permalink: /
+title: "欢迎来到iceteam"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ iceteam 这个想法是在2023年在ADOG将粉丝群名称修改为：ice交流�
 自23年以来，我们同各位经历了风风雨雨（并没有）
 关于25年下半年
 这是一个很~~宏伟~~的计划
-我们决定在下半年全力以赴 将粉丝数冲击至**400**
+我们决定在下半年全力以赴 将粉丝数冲击至400
 你可以加入我们的QQ群
 https://qm.qq.com/q/nKAk2r5Dna
 也可以加入我们的kook频道
