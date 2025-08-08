@@ -1,5 +1,5 @@
 ---
-permalink: /iceteam.com
+permalink: /iceteam.github.io
 title: "欢迎来到iceteamqwq"
 author_profile: true
 redirect_from: 
@@ -30,4 +30,4 @@ https://kook.vip/8TDEpR
 
 
 编辑者**一只懒狗彬彬ya**
-核对**一只懒狗彬彬ya**
+核对**一只懒狗彬彬ya**  
